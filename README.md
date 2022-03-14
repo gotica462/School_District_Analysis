@@ -61,6 +61,14 @@ Since we replace the scores of the 9th Grade with nan, the scores are not affect
 
 #### Scores by School Spending
 
+![image](https://github.com/gotica462/School_District_Analysis/blob/main/Scores%20by%20School%20Spending.png)
+
+
+#### Scores by School Size
+
+
+#### Scores by School Type
+
 
 
 
