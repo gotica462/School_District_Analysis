@@ -6,7 +6,7 @@ The school board has found evidence of academic dishonesty in the reading and ma
       
 ## Results 
 
-To get the new results we first had to replace all the scores of the 9th graders with NaN. To do this we used the loc() function in pandas. See link below.
+To get the new results we first had to replace all the scores of the 9th graders with NaN. To do this we used the loc() function in pandas. See link
 https://github.com/gotica462/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb
 
 
