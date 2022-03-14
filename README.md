@@ -49,6 +49,17 @@ As we can see replacing the scores of the 9th grades had a minimal effect in Tho
 
 ![image](https://github.com/gotica462/School_District_Analysis/blob/main/Top%205%20schools.png)
 
+#### Math Scores by Grade
+
+![image](https://github.com/gotica462/School_District_Analysis/blob/main/Math%20Scores%20by%20Grade.png)
+
+#### Reading Socres by Grade 
+
+![image](https://github.com/gotica462/School_District_Analysis/blob/main/Reading%20Scores%20by%20Grade.png)
+
+Since we replace the scores of the 9th Grade with nan, the scores are not affected at all.
+
+
 
 
 
