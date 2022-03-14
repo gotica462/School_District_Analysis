@@ -15,7 +15,7 @@ See images below:
 
 Before replacing the scores
 
-![image](https://github.com/gotica462/School_District_Analysis/blob/main/Not%20Counting%209th%20Grade%20in%20Thomas%20High.png)
+![image](https://github.com/gotica462/School_District_Analysis/blob/main/Counting%209th%20Grade%20in%20Thomas%20High.png)
 
 After replacing the scores
 
