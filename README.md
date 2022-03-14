@@ -59,6 +59,10 @@ As we can see replacing the scores of the 9th grades had a minimal effect in Tho
 
 Since we replace the scores of the 9th Grade with nan, the scores are not affected at all.
 
+#### Scores by School Spending
+
+
+
 
 
 
