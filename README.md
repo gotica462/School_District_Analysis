@@ -74,7 +74,7 @@ Since we replace the scores of the 9th Grade with nan, the scores are not affect
 
 ## Summary
 
-
+After doing our analysis and replacing the scores of the 9th graders, we can see that our changes are minimal. They don't even represent 1%. Furthermores after we formated the percentages to the whole number most of our charts like scores by school size, type ans spending stay pretty much the same and if the change is not even 1%. The changes we did to our analysis did not disrupt our overall data so the conclusions we made in our initial analysis work for this one too.
 
 
 
