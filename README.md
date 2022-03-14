@@ -66,10 +66,13 @@ Since we replace the scores of the 9th Grade with nan, the scores are not affect
 
 #### Scores by School Size
 
+![image](https://github.com/gotica462/School_District_Analysis/blob/main/Scores%20by%20School%20Size.png)
 
 #### Scores by School Type
 
+![image](https://github.com/gotica462/School_District_Analysis/blob/main/Scores%20by%20School%20Type.png)
 
+## Summary
 
 
 
