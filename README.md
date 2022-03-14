@@ -45,7 +45,7 @@ After replacing the socores
 
 It is important to know that although it says the same number of students on both images, we did not change the total number of students affected, we only change the percentage and then replace it with the new percentage for only grades 10th to 12th. That's why the changes we see are minimal in the passing percentages and the average of the scores. If we had not replace the percentages for only 10th to 12th grade the passing percentage would decrease considerable but it would not gives un an accurate result.
 
-As we can see replacing the scores of the 9th grades had a minimal effect in Thomas High standings, as they still are in the top 5 of schools in terms of overall passing percentage
+As we can see replacing the scores of the 9th grades had a minimal effect in Thomas High standings, as they still are in the top 5 of schools in terms of performance
 
 ![image](https://github.com/gotica462/School_District_Analysis/blob/main/Top%205%20schools.png)
 
